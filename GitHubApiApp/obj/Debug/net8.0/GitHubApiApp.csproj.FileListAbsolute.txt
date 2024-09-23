@@ -1,0 +1,17 @@
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\GitHubApiApp.exe
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\GitHubApiApp.deps.json
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\GitHubApiApp.runtimeconfig.json
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\GitHubApiApp.dll
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\GitHubApiApp.pdb
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.csproj.AssemblyReference.cache
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.AssemblyInfoInputs.cache
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.AssemblyInfo.cs
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubAp.860B0CE6.Up2Date
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.dll
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\refint\GitHubApiApp.dll
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.pdb
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\GitHubApiApp.genruntimeconfig.cache
+C:\Users\Flavia Santos\OneDrive\trabalho\c#\GitHubApiApp\obj\Debug\net8.0\ref\GitHubApiApp.dll
